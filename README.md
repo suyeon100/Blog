@@ -1,5 +1,5 @@
 # Blog
-###🗓️일정관리: <br>
+### 🗓️일정관리: <br>
 https://app.notion.com/p/38b15b0b67e880ee9a70cdb21150177e?v=38b15b0b67e880e98913000c9e295b4b&source=copy_link
 ### Notion API 명세 : <br>
 https://app.notion.com/p/API-38b15b0b67e880f88b6ae87e3500df62?source=copy_link
